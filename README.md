@@ -1,10 +1,13 @@
-## Hi there 👋
+##  Hola , soy Randy Castillo  👋
 <p align="center">
-  <img src="https://media.giphy.com/media/ICOgUN761zXPm9pDQI/giphy.gif" width="60%" />
+  <img src="https://user-images.githubusercontent.com/76079388/132920075-93bbbb22-ac8e-491a-b33a-3f457b9933bf.gif" width="60%" alt="Banner Hello World" />
 </p>
 
-# 💫 About Me:
-<img align="right" src="https://media.giphy.com/media/IXB6wt6QhO8EM/giphy.gif" width="200" />
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Panda.png" alt="Panda" width="35" height="35" /> Acerca de mí
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRsMW52dDI3MHVtMTJiMG4yeW9lOXZzeWt4dWgxejBjNjkxbWtqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IXB6wt6QhO8EM/giphy.gif" alt="Bugs Bunny Coding" width="220" />
+
+
 
 🔭 Actualmente estoy trabajando en<br><br>KodyDeb, empresa de tecnología enfocada en desarrollo de software, servicios de TI y consultoría.<br><br>👯 Busco colaborar en<br><br>Proyectos de código abierto que involucren ingeniería de sistemas o herramientas de optimización tecnológica.<br><br>🤝 Busco ayuda con<br><br>Mejores prácticas en gestión de proyectos de TI y estrategias para escalar startups de software.<br><br>🌱 Actualmente estoy aprendiendo<br><br>Modelado 3D (estoy explorando entre Blender y 3ds Max) para complementar mis habilidades técnicas.<br><br>💬 Pregúntame sobre<br><br>Desarrollo de software, emprendimiento tecnológico, Pokémon Go o artes marciales.
 
