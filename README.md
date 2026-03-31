@@ -1,10 +1,10 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZmdndhczhsbTZ0eXo1azhjeXBvMXEzZ2N3eXpjYnpzeXRidGhjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ICOgUN761zXPm9pDQI/giphy.gif" width="65%" />
+  <img src="https://media.giphy.com/media/ICOgUN761zXPm9pDQI/giphy.gif" width="60%" />
 </p>
 
 # 💫 About Me:
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRsMW52dDI3MHVtMTJiMG4yeW9lOXZzeWt4dWgxejBjNjkxbWtqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IXB6wt6QhO8EM/giphy.gif" width="200" />
+<img align="right" src="https://media.giphy.com/media/IXB6wt6QhO8EM/giphy.gif" width="200" />
 
 🔭 Actualmente estoy trabajando en<br><br>KodyDeb, empresa de tecnología enfocada en desarrollo de software, servicios de TI y consultoría.<br><br>👯 Busco colaborar en<br><br>Proyectos de código abierto que involucren ingeniería de sistemas o herramientas de optimización tecnológica.<br><br>🤝 Busco ayuda con<br><br>Mejores prácticas en gestión de proyectos de TI y estrategias para escalar startups de software.<br><br>🌱 Actualmente estoy aprendiendo<br><br>Modelado 3D (estoy explorando entre Blender y 3ds Max) para complementar mis habilidades técnicas.<br><br>💬 Pregúntame sobre<br><br>Desarrollo de software, emprendimiento tecnológico, Pokémon Go o artes marciales.
 
