@@ -1,60 +1,31 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/76079388/132920075-93bbbb22-ac8e-491a-b33a-3f457b9933bf.gif" width="100%" alt="Banner Hello World" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZmdndhczhsbTZ0eXo1azhjeXBvMXEzZ2N3eXpjYnpzeXRidGhjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ICOgUN761zXPm9pDQI/giphy.gif" width="65%" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=¡Bienvenido+a+KodyDeb!;Ingeniería+de+Sistemas;Desarrollador+de+Software" alt="Typing SVG" /></a>
-</p>
+# 💫 About Me:
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRsMW52dDI3MHVtMTJiMG4yeW9lOXZzeWt4dWgxejBjNjkxbWtqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IXB6wt6QhO8EM/giphy.gif" width="200" />
 
----
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Panda.png" alt="Panda" width="35" height="35" /> Acerca de mí
-
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRsMW52dDI3MHVtMTJiMG4yeW9lOXZzeWt4dWgxejBjNjkxbWtqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IXB6wt6QhO8EM/giphy.gif" alt="Bugs Bunny Coding" width="220" />
-
-Hola 👋, soy **Randy Castillo**. Estudiante de **Ingeniería de Sistemas** (8vo ciclo) en la Universidad César Vallejo, Trujillo.
-
-Soy un apasionado por la tecnología y la creación de soluciones digitales innovadoras. Actualmente me desempeño como:
-
-* **🏢 Co-fundador en KodyDeb**: Liderando nuestra startup enfocada en el desarrollo de software a medida, servicios de TI y consultoría técnica.
-* **🌱 Aprendizaje continuo:** Expandiendo mis habilidades creativas mediante el **Modelado 3D** (Blender / 3ds Max).
-* **💻 Desarrollador:** Con experiencia técnica en Java, Python, PHP, Flutter y gestión de bases de datos con SQL Server.
-
-Cuando no estoy frente a la terminal, me encontrarás practicando artes marciales, capturando Pokémon en **Pokémon Go** o disfrutando de una buena serie como **Dexter**.
+🔭 Actualmente estoy trabajando en<br><br>KodyDeb, empresa de tecnología enfocada en desarrollo de software, servicios de TI y consultoría.<br><br>👯 Busco colaborar en<br><br>Proyectos de código abierto que involucren ingeniería de sistemas o herramientas de optimización tecnológica.<br><br>🤝 Busco ayuda con<br><br>Mejores prácticas en gestión de proyectos de TI y estrategias para escalar startups de software.<br><br>🌱 Actualmente estoy aprendiendo<br><br>Modelado 3D (estoy explorando entre Blender y 3ds Max) para complementar mis habilidades técnicas.<br><br>💬 Pregúntame sobre<br><br>Desarrollo de software, emprendimiento tecnológico, Pokémon Go o artes marciales.
 
 <br clear="right"/>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/randycastillo_j) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RandyCastillo20) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/randycastillo10102004) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@randy39174) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:randycastillo10102004@gmail.com) 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Conéctate Conmigo
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
-<p align="left">
-  <a href="https://linkedin.com/in/RandyCastillo20" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
-  <a href="https://instagram.com/randycastillo_j" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="30" /></a>
-  <a href="mailto:randycastillo10102004@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="30" /></a>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RandyCastillo20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RandyCastillo20&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RandyCastillo20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="35" height="35" /> Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RandyCastillo20&show_icons=true&theme=tokyonight" alt="RandyCastillo20 GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandyCastillo20&layout=compact&theme=tokyonight" alt="RandyCastillo20 Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RandyCastillo20&theme=radical&no-frame=false&no-bg=true" alt="RandyCastillo20 Trophies" />
-</p>
-
----
-
-### ✍️ Frase para el Dev
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RandyCastillo20)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
 
